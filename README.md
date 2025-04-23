@@ -1,5 +1,5 @@
 # 👋 Hello! I'm IosebiGames
-I'm a passionate Java developer who loves building apps that solve real problems and spark creativity.
+I'm a passionate Java developer who loves building apps that sees a programming as a personal problem solving, creating, insightful hobby.
 
 ## 🔧 Skills
 - Java Core, Swing, AWT
