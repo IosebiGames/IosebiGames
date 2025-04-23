@@ -1,28 +1,27 @@
-# 👋 Hello! I'm IosebiGames
-I'm a passionate Java developer who loves building apps that sees a programming as a personal problem solving, creating, insightful hobby.
+# 👋 Hello! I'm IosebiGames  
+I'm a passionate Java developer who loves building apps that solve real problems and spark creativity.
 
 ## 🔧 Skills
-- Java Core, Swing, AWT
-- JLayer (JavaZoom), Apache Commons
-- GUI design, problem solving
+- Java Core, Swing, AWT  
+- JLayer (JavaZoom), Apache Commons  
+- GUI design, problem solving, planning with love and logic
 
 ## 🛠 Projects
-- 🎵 **Audio Player (Part 1 & 2)** – Custom-designed music player using JLayer and Swing
-- ✂️ **Screenshotter App** – Lightweight screen capture tool
-- 🖼 **Image Viewer** – Fast and simple image viewer with zoom/pan
-- 🕹 **Cookie Clicker** – Java version of the idle clicker game
-- 💬 **Byte Messenger (Friend 1 & 2)** – Offline messaging simulation in Java
-- 🌐 **Web Opener** – Quickly open websites from a Java interface
-- 📶 **WiFi Connector** – Interface to simulate connecting to Wi-Fi networks
-- 🌡 **Temperature Converter** – Converts between Celsius and Fahrenheit
-- ⏰ **Clock App** – Displays real-time clock in a sleek UI
-- 🎙 **Voice Recorder App** – Record and save audio input from mic
-- 📻 **Live Walkie Talkie** – Simulates local communication like walkie-talkies
-- 🧠 **OSHelper** – Java utility for common operating system tasks
-- 🏫 **SchoolBoard App** – Displays lessons or info like a school board
+- 🎵 **Audio Player App (Part 1 & 2)** – Custom-designed music player using JLayer and Swing  
+- 🖥 **OSHelper** – Tools to interact with system settings and utilities  
+- 🌐 **Web Opener** – Opens URLs through a simple GUI  
+- 🧊 **Cookie Clicker Game** – Fun little idle game in Java  
+- 💬 **Byte Messenger (Friend 1 & 2)** – Java-based offline messaging simulation  
+- 📷 **Screenshotter App** – Lightweight app to capture screen  
+- 🖼 **Image Viewer** – Fast image viewer with zoom and pan  
+- 🎙 **Voice Recorder App** – Records and plays back audio  
+- 📡 **Live Walkie Talkie App** – Simulates real-time communication  
+- 📊 **Temperature Converter** – Converts between Celsius, Fahrenheit, and Kelvin  
+- 🔌 **WiFi Connector** – GUI to manage Wi-Fi connections  
+- 🧮 **Calculator App** – Simple but smooth calculator  
+- 📝 **Notepad App** – A clean text editor with saving support  
+- 🕒 **Clock App** – Live digital clock display  
+- 🎓 **SchoolBoard App** – A mock-up for organizing school tasks and boards
 
-## 💡 Philosophy
-I believe programming is about solving problems creatively, planning with care, and sharing what we know. I build with love and purpose.
-
-## 📫 Contact
+## 📫 Contact  
 Feel free to message me here on GitHub or check out my YouTube: [IosebiGames](https://www.youtube.com/@IosebiGames)
