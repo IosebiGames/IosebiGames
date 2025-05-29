@@ -5,7 +5,7 @@ I'm a passionate Java developer who loves building apps and that sees a programm
 - Java Core, Swing, AWT  
 - JLayer (JavaZoom), Apache Commons  
 - GUI design, problem solving, planning with love and logic
-- Low Level Memory Manipulation by Binary Decimal Shifting
+- Low Level Memory Manipulation by Binary Bit Shifting
 
 ## 🛠 Projects
 - 🎵 **Audio Player App (Part 1 & 2)** – Custom-designed music player using JLayer and Swing  
