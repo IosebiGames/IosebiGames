@@ -24,6 +24,7 @@ I'm a passionate Java developer who loves building apps and that sees a programm
 - 🕒 **Clock App** – Live digital clock display  
 - 🎓 **SchoolBoard App** – A mock-up for organizing school tasks and boards
 - ▶️ **Youtube Viewer** - A Cool Video watching system, runs youtube in the window
-
+- ⬛️🟥 **Pigment Manager** - a Medical Personal app which lets user choose colors depending on melanin Pigment amount.
+- 🛃 **Boolean Service** - a App which asks user for a Website link in console window and than gives information: Blocked status, title, URL.
 ## 📫 Contact  
 Feel free to message me here on GitHub or check out my YouTube: [IosebiGames](https://www.youtube.com/@IosebiGames)
