@@ -26,5 +26,6 @@ I'm a passionate Java learner who loves building apps and that sees a programmin
 - ▶️ **Youtube Viewer** - A Cool Video watching system, runs youtube in the window
 - ⬛️🟥 **Pigment Manager** - a Medical Personal app which lets user choose colors depending on melanin Pigment amount.
 - 🛃 **Boolean Service** - a App which asks user for a Website link in console window and than gives information: Blocked status, title, URL.
+- ⏰️ **Time Reminder** - a App which informs user of time passage after optional hours and minutes.
 ## 📫 Contact  
 Feel free to message me here on GitHub or check out my YouTube: [IosebiGames](https://www.youtube.com/@IosebiGames)
