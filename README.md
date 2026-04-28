@@ -1,31 +1,24 @@
-# 👋 Hello! I'm IosebiGames  
-I'm a Passionate Self-Taught Java developer who loves building apps and that sees a programming as a personal activity to create, solve a problems and grow.
+# 👋 Hello! 
 
-## 🔧 Skills
-- Java Core, Swing, AWT  
-- JLayer (JavaZoom), Apache Commons  
-- GUI design, problem solving, planning with love and logic
-- Low Level Memory Manipulation by Binary Bit Shifting
+## You are viewing my Github portfolio, I think to make you understand Better who I am, I can do small Q&A-ish thing:
 
-## 🛠 Projects
-- 🎵 **Audio Player App (Part 1 & 2)** – Custom-designed music player using JLayer and Swing  
-- 🖥 **OSHelper** – Tools to interact with system settings and utilities  
-- 🌐 **Web Opener** – Opens URLs through a simple GUI  
-- 🧊 **Cookie Clicker Game** – Fun little idle game in Java  
-- 💬 **Byte Messenger (Friend 1 & 2)** – Java-based offline messaging simulation  
-- 📷 **Screenshotter App** – Lightweight app to capture screen  
-- 🖼 **Image Viewer** – Fast image viewer with zoom and pan  
-- 🎙 **Voice Recorder App** – Records and plays back audio  
-- 📡 **Live Walkie Talkie App** – Simulates real-time communication  
-- 📊 **Temperature Converter** – Converts between Celsius, Fahrenheit, and Kelvin  
-- 🔌 **WiFi Connector** – GUI to manage Wi-Fi connections  
-- 🧮 **Calculator App** – Simple but smooth calculator  
-- 📝 **Notepad App** – A clean text editor with saving support  
-- 🕒 **Clock App** – Live digital clock display  
-- 🎓 **SchoolBoard App** – A mock-up for organizing school tasks and boards
-- ▶️ **Youtube Viewer** - A Cool Video watching system, runs youtube in the window
-- ⬛️🟥 **Pigment Manager** - a Medical Personal app which lets user choose colors depending on melanin Pigment amount.
-- 🛃 **Boolean Service** - a App which asks user for a Website link in console window and than gives information: Blocked status, title, URL.
-- ⏰️ **Time Reminder** - a App which informs user of time passage after optional hours and minutes.
-## 📫 Contact  
-Feel free to message me here on GitHub or check out my YouTube: [IosebiGames](https://www.youtube.com/@IosebiGames)
+# So who are you?
+ I'm Passionate Self-Taught Java developer who mainly focuses on Java SE (Standard Edition).
+
+# What do you do?
+   I make GUI-Based Desktop apps, those can be different tools or Java applications which I find useful or interesting.
+   But I actually do care about actual Java as well, I don't just do one thing, I respect Java and I always keep learning it, I don't rush, I learn over-time and Always keep improving.
+
+## Do you focus on other programming languages?
+   Actually, No. I'm only a Java developer. And being a Java developer only is my personal choice. 😁
+   
+# How long is it since you are working on Java?
+  Almost 3 years as of April 2026.
+
+# Have you learned Java from somewhere?
+  Nope, only Self-Taught by using documented resources and personal projects.
+
+# How many Java apps and programs have you made?
+ Maybe over 20 or something but actually there are planty of them, some are just not saved.
+
+  to make it more clear, I'm somebody who Decided to run Java on iOS (yep...But it was small experiment 😁).
