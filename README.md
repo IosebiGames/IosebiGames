@@ -3,8 +3,8 @@
 ## You are viewing my Github portfolio, I think to make you understand Better who I am, I can do small Q&A-ish thing:
 
 ## So who are you?
- I'm Passionate Self-Taught Java developer who mainly focuses on Java SE (Standard Edition).
- Student? Not really.
+ I'm Passionate Self-Taught Java developer who mainly focuses on Java SE (Standard Edition).<br>
+ Student? Not really.<br>
  Just Georgian guy.
 
 ## What do you do?
@@ -15,7 +15,7 @@
    Actually, No. I'm only a Java developer. And being a Java developer only is my personal choice. 😁
    
 ## How long is it since you are working on Java?
-  Almost 3 years as of April 2026.
+  Almost 3 years as of May 2026.
 
 ## Have you learned Java from somewhere?
   Nope, only Self-Taught by using documented resources and personal projects.
