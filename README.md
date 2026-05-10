@@ -20,6 +20,15 @@
 ## Have you learned Java from somewhere?
   Nope, only Self-Taught by using documented resources and personal projects.
 
+## Are you Currently working anywhere?
+  Not really, I don't work anywhere right now.
+
+## Did they Teach you Java from School/College/University?
+   Nope, totally Self-Taught.
+
+## Why Java?
+   Because it is thing that feels personal to me, and I care about it. Not only it fits my goals but also it is something that I like without anybody forcing for me to like it.
+   
 ## How many Java apps and programs have you made?
  Maybe over 20 or something but actually there are planty of them, some are just not saved.
 
