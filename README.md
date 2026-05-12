@@ -28,7 +28,9 @@
 
 ## Why Java?
    Because it is thing that feels personal to me, and I care about it. Not only it fits my goals but also it is something that I like without anybody forcing for me to like it.
-   
+
+## Are you Freelancing?
+   Not at all, But if I find somebody who needs help, very depending on what it is about, I might help them with Java-related issue/task.
 ## How many Java apps and programs have you made?
  Maybe over 20 or something but actually there are planty of them, some are just not saved.
 
