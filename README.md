@@ -31,7 +31,17 @@
 
 ## Are you Freelancing?
    Not at all, But if I find somebody who needs help, very depending on what it is about, I might help them with Java-related issue/task.
+
+## Do you ever focus on Java EE/Spring boot? If Not, Why?
+   No, I don't because my goal was never about building Enterprise Web apps or similar, I might pay attention at Java's community and how they
+   behave towards Java EE/Spring boot but personally I don't do it.
+   
 ## How many Java apps and programs have you made?
  Maybe over 20 or something but actually there are planty of them, some are just not saved.
 
   to make it more clear, I'm somebody who Decided to run Java on iOS (yep...But it was small experiment 😁).
+    You can see it here: https://github.com/IosebiGames/iJava/tree/main
+    
+## Do you use any kind of Databases?
+   Yes! Right now I'm exploring SQLite and learning it without rushing or anything, it's going pretty well.
+   My progress seems to be solid and JDBC Doesn't really seem like a problem to me sine I've seen it a lot and I already understand it.
