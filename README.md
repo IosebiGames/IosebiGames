@@ -30,7 +30,7 @@
    Because it is thing that feels personal to me, and I care about it. Not only it fits my goals but also it is something that I like without anybody forcing for me to like it.
 
 ## Are you Freelancing?
-   Not at all, But if I find somebody who needs help, very depending on what it is about, I might help them with Java-related issue/task.
+   Not at all, But if I find someone who needs help, very depending on what they need help with, I might help them with Java-related issue/task.
 
 ## Do you ever focus on Java EE/Spring boot? If Not, Why?
    No, I don't because my goal was never about building Enterprise Web apps or similar, I might pay attention at Java's community and how they
@@ -45,3 +45,9 @@
 ## Do you use any kind of Databases?
    Yes! Right now I'm exploring SQLite and learning it without rushing or anything, it's going pretty well.
    My progress seems to be solid and JDBC Doesn't really seem like a problem to me sine I've seen it a lot and I already understand it.
+
+## If you made so many Java apps, then why do I see only 3 repositories?
+   It's probably me overthinking about such question, but the reason is that jar files that you see on my Github profiles are exactly
+   those other Java projects that I've made but those are just already exported and they've been made long before I started using Github, so
+   not all original source code files were saved, only jar files but decompiling them won't give precise source code.
+      (But at least I'll keep releasing new Java projects when They're ready.)
