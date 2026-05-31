@@ -15,7 +15,7 @@
    Actually, No. I'm only a Java developer. And being a Java developer only is my personal choice. 😁
    
 ## How long is it since you are working on Java?
-  Almost 3 years as of May 2026.
+  Almost 3 years as of June 2026.
 
 ## Have you learned Java from somewhere?
   Nope, only Self-Taught by using documented resources and personal projects.
@@ -51,3 +51,7 @@
    those other Java projects that I've made but those are just already exported and they've been made long before I started using Github, so
    not all original source code files were saved, only jar files but decompiling them won't give precise source code.
       (But at least I'll keep releasing new Java projects when They're ready.)
+
+## Any Experience with JavaFX?
+ Yes! But not as much as traditional Swing or AWT. For example, YoutubeWatcher is made in JavaFX (But doesn't run because doesn't contain external libraries in JAR..My bad 😁)
+ I can grasp JavaFX but not very deeply. but it's not like it is confusing for me.
