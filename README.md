@@ -33,7 +33,7 @@
    Not at all, But if I find someone who needs help, very depending on what they need help with, I might help them with Java-related issue/task.
 
 ## Do you ever focus on Java EE/Spring boot? If Not, Why?
-   No, I don't because my goal was never about building Enterprise Web apps or similar, I might pay attention at Java's community and how they
+   **No**, I don't because my goal was never about building Enterprise Web apps or similar, I might pay attention at Java's community and how they
    behave towards Java EE/Spring boot but personally I don't do it.
    
 ## How many Java apps and programs have you made?
