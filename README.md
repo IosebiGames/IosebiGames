@@ -55,3 +55,6 @@
 ## Any Experience with JavaFX?
  Yes! But not as much as traditional Swing or AWT. For example, YoutubeWatcher is made in JavaFX (But doesn't run because doesn't contain external libraries in JAR..My bad 😁)
  I can grasp JavaFX but not very deeply. but it's not like it is confusing for me.
+
+ ## If you made so many Java apps, where do I see them?
+  You can see them on my profile's repository, it's here: https://github.com/IosebiGames/IosebiGames/tree/main
