@@ -57,6 +57,7 @@
 
  ## What to expect from your Java apps?
    **Limitations**: I think it's important for you to know that those Java apps are Swing-based, Design and functionally might seem "Noobish" to some people, but it is what it is.<br>
-   **Why are they created:** I didn't make those Apps "Casually", I made them year ago (or multiple years ago) for my personal growth, and joy to make something minimalist but useful.<br>
+   
+   **Why are they created:** I didn't make those Apps "Casually", I made them year ago (or multiple years ago) for my personal growth, and joy to make something minimalist but useful.<br>   
    **Requirements to run them:** Make sure that you have Latest JDK (Java Development Kit) installed and set on your Device (since Basic JRE from Oracle's Java doesn't tolerate apps with high JRE compilance levels.) Many of those Apps are built by using JRE 21/23, so If you want to keep Java, note that it might not compile some of those apps.
    **For people who want to try out those apps:** https://github.com/IosebiGames/IosebiGames/tree/main
