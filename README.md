@@ -45,11 +45,8 @@
    Yes! Right now I'm exploring SQLite and learning it without rushing or anything, it's going pretty well.
    My progress seems to be solid and JDBC Doesn't really seem like a problem to me sine I've seen it a lot and I already understand it.
 
-## If you made so many Java apps, then why do I see only 3 repositories?
-   It's probably me overthinking about such question, but the reason is that jar files that you see on my Github profiles are exactly
-   those other Java projects that I've made but those are just already exported and they've been made long before I started using Github, so
-   not all original source code files were saved, only jar files but decompiling them won't give precise source code.
-      (But at least I'll keep releasing new Java projects when They're ready.)
+## Do you still keep making Java apps as of today?
+   Yes! Sometimes, I still do make them. Especially if I have ideas or If I find it interesting to develop some new GUI-Based app which behaves as tool.
 
 ## Any Experience with JavaFX?
  Yes! But not as much as traditional Swing or AWT. For example, YoutubeWatcher is made in JavaFX (But doesn't run because doesn't contain external libraries in JAR..My bad 😁)
