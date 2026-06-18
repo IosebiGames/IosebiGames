@@ -54,6 +54,7 @@
 
  ## What to expect from your Java apps?
    My Java applications are behaving as small, useful tools rather then something large. It's important to keep in mind that apps don't have any Fancy Graphics or Animations or Latest design, They are simple and minimalist.<br>
+   
    **Limitations**: some Apps might miss resources or libraries or might depend on them, so Some Jar files might not run without dependencies or project folder. <br>
    
    **Why are they created:** I didn't make those Apps "Casually", I made them year ago (or multiple years ago) for my personal growth, and joy to make something minimalist but useful.<br>   
