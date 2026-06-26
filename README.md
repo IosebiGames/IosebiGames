@@ -58,6 +58,6 @@
    **Limitations**: some Apps might miss resources or libraries or might depend on them, so Some Jar files might not run without dependencies or project folder. <br>
    
    **Why are they created:** I didn't make those Apps "Casually", I made them year ago (or multiple years ago) for my personal growth, and joy to make something minimalist but useful.<br>   
-   **Requirements to run them:** Make sure that you have Latest JDK (Java Development Kit) installed and set on your Device (since Basic JRE from Oracle's Java doesn't tolerate apps with high JRE compilance levels.) Many of those Apps are built by using JRE 21/23, so If you want to keep Java, note that it might not compile some of those apps.<br>
+   **Requirements to run them:** Make sure that you have Latest JDK (Java Development Kit) installed and set on your Device (since Basic JRE from Oracle Java doesn't tolerate apps with high JRE compilance levels since basic JRE was intended for Java Applets which are gone today, but my Apps are Swing-based.) Many of those Apps are built by using JRE 21/23, so If you want to keep Java, note that it might not compile some of those apps.<br>
    
    **For people who want to try out those apps:** https://github.com/IosebiGames/IosebiGames/tree/main
