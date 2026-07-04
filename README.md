@@ -14,7 +14,7 @@
    Actually, No. I'm only a Java developer. And being a Java developer only is my personal choice. 😁
    
 ## How long is it since you are working on Java?
-  Almost 3 years as of June 2026.
+  Almost 3 years as of July 2026.
 
 ## Have you learned Java from somewhere?
   Nope, only Self-Taught by using documented resources and personal projects.
