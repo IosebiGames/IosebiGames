@@ -4,7 +4,7 @@
 
 ## So who are you?
  I'm Passionate Self-Taught Java developer who mainly focuses on Java SE (Standard Edition).<br>
- Student? Not really, Just Georgian guy.
+ Student? Not really, Just a guy from Country Georgia.
 
 ## What do you do?
    I make GUI-Based Desktop apps, those can be different tools or Java applications which I find useful or interesting.
