@@ -1,4 +1,4 @@
-Greetings!</br> 
+Greetings 😄!</br> 
 I'm IosebiGames. Passionate, Self-Taught Java developer.</br>
 I think in today's world, being developer can be understood in bunch of ways. to me, being a Java developer isn't about being a Spring rusher, it's about keeping things clear, simple and purposeful while understanding philosophy of Java language.
 
@@ -9,4 +9,4 @@ As I kept making more and more apps, today it ranges up to 20+ apps, possibly mo
 **You want simple tool to Record sample of your Microphone?** Try MicroMemo: https://github.com/IosebiGames/WConnect</br>
 **You want simple tool to play WAVE audio file?** Try AudioPlayer-LM: https://github.com/IosebiGames/AudioPlayer-LM</br> 
 
-*You get the idea.*
+*You get the idea.*</br>
