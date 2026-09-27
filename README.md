@@ -1,4 +1,5 @@
-Greetings! I'm IosebiGames. Passionate, Self-Taught Java developer.</br>
+Greetings!</br> 
+I'm IosebiGames. Passionate, Self-Taught Java developer.</br>
 I think in today's world, being developer can be understood in bunch of ways. to me, being a Java developer isn't about being a Spring rusher, it's about keeping things clear, simple and purposeful while understanding philosophy of Java language.
 
 ## My Story
