@@ -11,5 +11,7 @@ Try WConnect: https://github.com/IosebiGames/WConnect</br>
 Try MicroMemo: https://github.com/IosebiGames/WConnect</br>
 **You want simple tool to play WAVE audio file?**</br>
 Try AudioPlayer-LM: https://github.com/IosebiGames/AudioPlayer-LM</br> 
+**You want simplest app that works as tool closely similar to School board app?**</br>
+Try Schoolboard app: https://github.com/IosebiGames/IosebiGames/blob/main/Swing%20Apps/SchoolBoard.jar</br> 
 
 *You get the idea.*</br>
