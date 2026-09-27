@@ -15,3 +15,5 @@ Try AudioPlayer-LM: https://github.com/IosebiGames/AudioPlayer-LM</br>
 Try Schoolboard app: https://github.com/IosebiGames/IosebiGames/blob/main/Swing%20Apps/SchoolBoard.jar</br> 
 
 *You get the idea.*</br>
+While I don't use Spring or Java EE at all, I still focus on Java SE (Standard Edition).</br>
+I'm not someone who writes Procedural, YouTube copy-pasted Enterprise Java code, I'm someone who cares about fundamental understanding of Java.
