@@ -1,4 +1,4 @@
-# 👋 Hello! 
+# I decided to work on my ReadMe to keep things more clean.
 
 ## You are viewing my Github portfolio, I think to make you understand Better who I am, I can do small Q&A-ish thing:
 
