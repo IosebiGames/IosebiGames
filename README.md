@@ -1,6 +1,7 @@
 ## I decided to work on my ReadMe to keep things more clean.
 
-Greetings! I'm IosebiGames. Passionate, Self-Taught Java developer.
+Greetings! I'm IosebiGames. Passionate, Self-Taught Java developer.</br>
+I think in today's world, being developer can be understood in bunch of ways. to me, being a Java developer isn't about being a Spring rusher, it's about keeping things clear, simple and purposeful.
 
 ## So who are you?
  I'm Passionate Self-Taught Java developer who mainly focuses on Java SE (Standard Edition).<br>
