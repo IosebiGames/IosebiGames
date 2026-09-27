@@ -8,7 +8,7 @@ As I kept making more and more apps, today it ranges up to 20+ apps, possibly mo
 **You want simple tool to connect to your Wi-Fi> (if task bar isn't working)**</br>
 Try WConnect: https://github.com/IosebiGames/WConnect</br>
 **You want simple tool to Record sample of your Microphone?**</br>
-Try MicroMemo: https://github.com/IosebiGames/WConnect</br>
+Try MicroMemo: https://github.com/IosebiGames/MicroMemo</br>
 **You want simple tool to play WAVE audio file?**</br>
 Try AudioPlayer-LM: https://github.com/IosebiGames/AudioPlayer-LM</br> 
 **You want simplest app that works as tool closely similar to School board app?**</br>
