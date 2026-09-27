@@ -1,6 +1,6 @@
 ## I decided to work on my ReadMe to keep things more clean.
 
-## You are viewing my Github portfolio, I think to make you understand Better who I am, I can do small Q&A-ish thing:
+Greetings! I'm IosebiGames. Passionate, Self-Taught Java developer.
 
 ## So who are you?
  I'm Passionate Self-Taught Java developer who mainly focuses on Java SE (Standard Edition).<br>
