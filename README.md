@@ -18,4 +18,4 @@ Try Schoolboard app: https://github.com/IosebiGames/IosebiGames/blob/main/Swing%
 While I don't use Spring or Java EE at all, I still focus on Java SE (Standard Edition).</br>
 I'm not someone who writes Procedural, YouTube copy-pasted Enterprise Java code, I'm someone who cares about fundamental understanding of Java.</br>
 
-**There is lot to speak about, but let your careful attention to learn more.** 
+**There is lot to share about, but I believe this is enough as sharing more stories will make ReadMe unclear.** 
