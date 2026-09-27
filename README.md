@@ -1,6 +1,6 @@
-Greetings 😄!</br> 
+Greetings! 😄</br> 
 I'm IosebiGames. Passionate, Self-Taught Java developer.</br>
-in today's world, being a 'developer' can be understood in bunch of ways. to me, being a Java developer isn't about being a Spring rusher, it's about keeping things clear, simple and purposeful while understanding philosophy of Java language.
+I'm someone who thinks that being Java developer isn't about being a Spring rusher, it's about understanding philosophy of Java language.
 
 ## My Story
 I started Java in Summer of 2023 during my rest holidays, but more notably in August. I had this feeling of wanting to make something that was useful to me, potentially to others. at Start, Java felt like it was something for me. I setup everything that I needed but I struggled to compile my most basic Java code, but I was still motivated to keep going and fixed that. Today we say that sometimes GUI development in Java is too early to put hands on since people usually start with Java Core, but I jumped straight into Java Swing, but difference was that I wasn't rushing, I was curious and I learned making GUI-Based Desktop apps for Windows. I usually make GUI applications that are small and minimalist, at this moment, not something that can be used by milions of people. I didn't really learn Java from any courses or school or UNI or college or similar, Instead I did it from Independent research and self-trying.</br>
